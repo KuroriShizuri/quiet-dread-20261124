@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.output/
+# kit unpacked locally (not part of the entry)
+u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018-kit/
